@@ -8,6 +8,6 @@ setup(
     description="Ready-to-use session cookies with custom backends for FastAPI",
     long_description=open("readme.md").read(),
     author="Jordan Isaacs",
-    url="https://github.com/jordanisaacs/fastapi-sessions",
+    url="https://github.com/zooba-inc/fastapi-session-managements",
     install_requires=["fastapi", "itsdangerous", "pydantic"],
 )

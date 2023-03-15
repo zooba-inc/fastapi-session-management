@@ -6,8 +6,7 @@ description = "Ready-to-use session library for FastAPI"
 authors = ["Jordan Isaacs"]
 keywords = ["sessions", "cookies", "authorization", "fastapi"]
 readme = "readme.md"
-homepage = "https://github.com/jordanisaacs/fastapi-sessions"
-documentation = "https://jordanisaacs.github.io/fastapi-sessions/"
+homepage = "https://github.com/zooba-inc/fastapi-session-management"
 classifiers = [
     "License :: OSI Approved :: MIT License",
     "Framework :: AsyncIO",
