@@ -16,8 +16,8 @@ class SameSiteEnum(str, Enum):
     strict = "strict"
     none = "none"
 
-    def __repr__(self) -> str:
-        return super().__repr__()
+    def __str__(self) -> str:
+        return self.value
 
 
 class CookieParameters(BaseModel):
